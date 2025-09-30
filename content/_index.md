@@ -31,10 +31,18 @@ favicon = false
 Click the above links. Things might have changed style-wise, but as of 09/30/25, we have still not been served a warrant, subpoena, or forced to comply with a secret law enforcement/government request. Hence, warrant canary Squawktalk has not left. If he does, run. <span style="float:right;">![squawktalk](/squawktalk.png)</span> 
 
 
-Terms of Service: Don't be the reason why Squawktalk leaves and you should be good.
+**Terms of Service:** Don't be the reason why Squawktalk leaves and you should be good.
 
-Recent updates:
+## Recent updates:
 * Breezewiki has been deprecated.
 * Privatebin and Send are back.
 * Invidious is on hold for now.
 
+## Donations?
+
+I have optimized costs on my services so it costs very little to run them, approx 7.70 USD per month. Hence, donations aren't needed and I can easily cover costs within a few of my typical surveys. Instead, consider giving your money to any of the following organizations that are dear to me:
+* [Louisana Abortion Fund](https://www.louisianaabortionfund.org/donate)
+* [Chicago Community Jail Support](https://chicago-community-jail-support.webnode.page/donate/)
+* [Trans Youth Emergency Project](https://southernequality.org/tyep/)
+* [Midwest Books to Prisoners](https://midwestbookstoprisoners.org/)
+* [Sameer Project](https://chuffed.org/project/113327-refaat-alareer-camp-the-sameer-project)
