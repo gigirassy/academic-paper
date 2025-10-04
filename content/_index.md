@@ -7,7 +7,6 @@ authors = [
 venue = {name = "x", url = "x"}
 buttons = [
     {name = "SearXNG", url = "https://searxng.blitzw.in"},
-    {name = "Redlib", url = "https://rl.blitzw.in"},
     {name = "Mirage", url = "https://mirage.blitzw.in"},
     {name = "Ladder", url = "https://guest:ladd!r1234@ladder.blitzw.in"},
     {name = "Phantom", url = "https://fan.blitzw.in"},
@@ -34,6 +33,7 @@ Click the above links. Things might have changed style-wise, but as of 09/30/25,
 **Terms of Service:** Don't be the reason why Squawktalk leaves and you should be good.
 
 ## Recent updates:
+* Redlib is no longer public due to clankers and is under basic auth. To access it, unabbreviate the subdomain (rl), put it backwards, add .blitzw.in to it, and log in with username ``guest`` and the password, which is the name of my favorite character, but with Is replaced with exclamation marks.
 * Breezewiki has been deprecated.
 * Privatebin and Send are back.
 * Invidious is on hold for now.
