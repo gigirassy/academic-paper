@@ -20,6 +20,7 @@ buttons = [
     {name = "Privatebin", url = "https://bin.blitzw.in"},
     {name = "Cyberchef", url = "https://cc.blitzw.in"},
     {name = "Send", url = "https://send.blitzw.in"},
+    {name = "AnonymousOverflow", url = "https://ao.blitzw.in"},
 ]
 
 katex = false
@@ -27,16 +28,17 @@ large_card = false
 favicon = false
 +++
 
-Click the above links. Things might have changed style-wise, but as of 09/30/25, we have still not been served a warrant, subpoena, or forced to comply with a secret law enforcement/government request. Hence, warrant canary Squawktalk has not left. If he does, run. <span style="float:right;">![squawktalk](/squawktalk.png)</span> 
+Click the above links. Things might have changed style-wise, but as of 10/8/25, we have still not been served a warrant, subpoena, or forced to comply with a secret law enforcement/government request. Hence, warrant canary Squawktalk has not left. If he does, run. <span style="float:right;">![squawktalk](/squawktalk.png)</span> 
 
 
 **Terms of Service:**
 
-* Don't be the reason why Squawktalk leaves and you should be good.
+* Don't be the reason why Squawktalk leaves.
 * Do not use my instances for scraping. This includes for external APIs without my consent.
-** Do not bypass bot protection mechanisms.
+* Do not bypass bot protection mechanisms.
 
 ## Recent updates:
+* New service: AnonymousOverflow.
 * Redlib is no longer public due to clankers and is under basic auth. To access it, unabbreviate the subdomain (rl), put it backwards, add .blitzw.in to it, and log in with username ``guest`` and the password, which is the name of my favorite character, but with Is replaced with exclamation marks.
 * Breezewiki has been deprecated.
 * Privatebin and Send are back.
